@@ -28,6 +28,7 @@
               pkgs.clj-kondo
               pkgs.clojure
               pkgs.clojure-lsp
+              pkgs.google-java-format
               pkgs.gradle
               pkgs.jet
               pkgs.jdk
